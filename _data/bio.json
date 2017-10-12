@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Simon Engler",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://simontengler.github.io/techfolio/images/simonengler.jpeg",
+    "email": "simon.engler@hawaii.edu",
+    "phone": "808-221-3787",
+    "website": "https://simontengler.github.io",
+    "summary": "I am studying for a PhD in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,39 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "SimonTEngler",
+        "url": "http://github.com/simontengler"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "simon.engler@gmail.com",
+        "url": "https://www.linkedin.com/in/simon-engler-20526322/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "SimonEngler",
+        "url": "http://twitter.com/SimonEngler"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "simon.engler",
+        "url": "http://instagram.com/simon.engler"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Robotic exploration",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "computational physics",
       "keywords": [
       ]
     }
@@ -65,19 +63,20 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "FORTRAN",
+        "Perl",
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Eclipse",
+        "Android App Development"
       ]
     }
   ],
@@ -85,13 +84,42 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "PhD",
+      "startDate": "2014-01-15",
       "endDate": "Present",
+      "gpa": "3.5",
+      "courses": [
+      ]
+    },
+    {
+       "institution": "University of Calgary, Canada",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "MSc",
+      "startDate": "2010-01-15",
+      "endDate": "2013-12-31",
+      "gpa": "3.5",
+      "courses": [
+      ]
+    },
+    {
+     "institution": "University of Amsterdam",
+      "area": "Computational Physics",
+      "studyType": "Graduate",
+      "startDate": "2001-09-15",
+      "endDate": "2003-06-15",
       "gpa": "",
       "courses": [
       ]
-    }
+    },
+    {
+       "institution": "Saint Mary's University, Halifax, Canada",
+      "area": "Astropysics and Mathematics",
+      "studyType": "BSc",
+      "startDate": "1997-09-15",
+      "endDate": "2001-05-13"
+      "gpa": "",
+      "courses": [
+      ]
   ],
   "work": [
     {
